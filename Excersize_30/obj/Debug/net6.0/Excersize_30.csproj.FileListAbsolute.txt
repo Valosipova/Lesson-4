@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\bin\Debug\net6.0\Excersize_30.exe
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\bin\Debug\net6.0\Excersize_30.deps.json
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\bin\Debug\net6.0\Excersize_30.runtimeconfig.json
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\bin\Debug\net6.0\Excersize_30.dll
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\bin\Debug\net6.0\Excersize_30.pdb
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.AssemblyInfo.cs
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.dll
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\refint\Excersize_30.dll
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.pdb
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\Excersize_30.genruntimeconfig.cache
+C:\Users\User\Desktop\Языки программирования\Homework\Lesson4\Excersize_30\obj\Debug\net6.0\ref\Excersize_30.dll
